@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**gaschecher/gaschecher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/iampavangandhi">
+  <img align="left" alt="Gabriella's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/gaschecher">
+  <img align="left" alt="Gabriella's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+
+About me information here.
+
+### More about me...
+
+- Fun Facts
+
+### Here's some information about my repositories!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gaschecher&show_icons=true&hide_border=true)
+
+⭐️ From [gaschecher](https://github.com/gaschecher)
