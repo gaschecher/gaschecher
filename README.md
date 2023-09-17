@@ -47,7 +47,7 @@ CMS)
 Lamda, EC2, Route53, AWS RDS, 
 Linux) 
 
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Project management (Jira, Trello, 
+<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Version Control & Engineering Management (Jira, Trello, 
 Git, Github, Figma) 
 
 
