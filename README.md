@@ -51,7 +51,6 @@ Git, Github)
 
 
 
-<img align="left" src="https://i.imgur.com/dR3SSVI.jpg" width="20%" height="20%">
 
 
 
