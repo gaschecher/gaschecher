@@ -29,7 +29,6 @@ Anyways, enjoy your browse through my Github and if you have any questions, feel
 
 ### Skills
 
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Bilingual (English, Spanish) 
 
 <img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Frontend Development (HTML, CSS, 
 Javascript, React, React Native, 
