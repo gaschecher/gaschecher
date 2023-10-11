@@ -54,7 +54,7 @@ Git, Github)
 
 <img align="left" src="https://i.imgur.com/dR3SSVI.jpg" width="20%" height="20%">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gaschecher&show_icons=true&hide_border=true)
+
 
 
 
