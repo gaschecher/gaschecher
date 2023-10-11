@@ -50,7 +50,6 @@ Linux)
 Git, Github) 
 
 
-### Here's some information about my repositories!
 
 <img align="left" src="https://i.imgur.com/dR3SSVI.jpg" width="20%" height="20%">
 
