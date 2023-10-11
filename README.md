@@ -56,6 +56,6 @@ Git, Github)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gaschecher&show_icons=true&hide_border=true)
 
-*Not sure why this widget isn't syncing properly with private repos but it still looks cool!*
+
 
 
