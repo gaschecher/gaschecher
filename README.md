@@ -36,18 +36,18 @@ Next.js, Typescript, Websockets,
 Tailwind, Bootstrap, Material UI, 
 Theme UI, SEO Optimization) 
 
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Backend Development (Basic Bash, 
+<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Backend Development (Bash, 
 Powershell, Node.js, Express.js, 
-NoSQL DB, MongoDB, MySQL DB, 
-API, Stripe, Axios, Strapi Headless 
+NoSQL DB, MongoDB, MySQL DB, PostreSQL,
+API, Axios, Strapi Headless 
 CMS) 
 
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Cloud (AWS Amplify, Heroku, AWS 
-Lamda, EC2, Route53, AWS RDS, 
+<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Cloud (AWS Amplify, AWS 
+Lambda, EC2, Route53, AWS RDS, AWS Kendra
 Linux) 
 
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Version Control & Engineering Management (Jira, Trello, 
-Git, Github, Figma) 
+<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Version Control & Engineering Management (Jira, 
+Git, Github) 
 
 
 ### Here's some information about my repositories!
