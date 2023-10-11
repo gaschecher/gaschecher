@@ -23,7 +23,7 @@
 ### Thanks for visiting my Github Page!
 _Last edited: August 2023_
 
-Hey there! I'm Gabriella originally from Florida and I'm a full-stack software engineer with a  pretty wide variety of talents ranging from programming to interpersonal/sales oriented skills. Not only do I have a passion for coding/creating but I also love coordinating with teams and networking. I'm a huge fan of gardening and love growing my own veggies at home. You might even notice some of my repositories are my own gardening projects where I combine my love of plants with my coding skills. 
+Hey there! I'm Gabriella originally from Florida and I'm a full-stack software engineer with a  pretty wide variety of talents ranging from programming to interpersonal oriented skills. Not only do I have a passion for coding/creating but I also love coordinating with teams and networking. I'm a huge fan of gardening and love growing my own veggies at home. You might even notice some of my repositories are my own gardening projects where I combine my love of plants with my coding skills. 
 
 Anyways, enjoy your browse through my Github and if you have any questions, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gaschecher/) (if you haven't already).
 
