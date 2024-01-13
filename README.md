@@ -21,7 +21,7 @@
 
 
 ### Thanks for visiting my Github Page!
-_Last edited: August 2023_
+_Last edited: January 2024_
 
 Hey there! I'm Gabriella originally from Florida and I'm an AWS Certified Devops & Full-Stack Software Engineer (MERN Stack) with a  pretty wide variety of talents. Not only do I have a passion for coding/creating but I'm also a huge fan of gardening and growing my own veggies at home. You might notice most of my repositories are my own gardening projects. Since this repo is for my side projects and fun ideas, I try to keep it interesting and combine my love of plants with my technical capabilities. 
 
