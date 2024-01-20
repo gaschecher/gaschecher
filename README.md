@@ -10,7 +10,7 @@
   <img alt="Gabriella's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://linkedin.com/gaschecher/">
+<a href="https://linkedin.com/in/gaschecher/">
   <img  alt="Gabriella's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
