@@ -2,7 +2,7 @@
 <img align="center" alt="Gabriella's Profile Picture" src="https://i.imgur.com/hwjm35J.png" />
 
 
-<a href="[https://medium.com/@gabriella_88194](https://medium.com/@gaschecher)">
+<a href="https://medium.com/@gaschecher">
   <img alt="Gabriella's Medium" width="22px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" />
 </a>
 
