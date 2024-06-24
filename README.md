@@ -27,25 +27,6 @@ Hey there! I'm Gabriella originally from Florida and I'm an AWS Certified Devops
 
 Enjoy browsing and if you see anything interesting to collaborate on, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/gaschecher/) (if you haven't already).
 
-### Skills
 
-
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Frontend Development (HTML, CSS, 
-Javascript, React, React Native, 
-Next.js, Typescript, Websockets, 
-Tailwind, Bootstrap, Material UI, 
-Theme UI) 
-
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Backend Development (Node.js, Express.js, Bash, 
-Powershell, 
-NoSQL DB, MongoDB, SQL DB, MySQL DB, PostreSQL, Memcache,
-REST API, Axios, Strapi Headless 
-CMS, Jenkins, Unit Testing) 
-
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> AWS Cloud (AWS Amplify, AWS 
-Lambda, EC2, S3, Route53 DNS, RDS, Aurora, DynamoDB, Kendra, Cloudformation, ECS, Docker, CI/CD Pipelines, IAM Management, Cloud Security Analytics) 
-
-<img width="16px" src="https://static.vecteezy.com/system/resources/previews/006/059/254/original/black-check-mark-icon-tick-symbol-in-black-color-illustration-for-web-mobile-and-concept-design-free-vector.jpg"/> Version Control & Coordination (Jira, Agile Methodology,
-Git, Github, Cloud9, AWS CodeCommit) 
 
 
